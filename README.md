@@ -52,5 +52,7 @@ Tasks are the following:
 
   ![scatter](Images/scatterplot.png)
 
-- Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
+- Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot
+
+  ![regression](Images/regression.png)
 
