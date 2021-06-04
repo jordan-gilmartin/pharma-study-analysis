@@ -26,13 +26,15 @@ Tasks are the following:
 
 - Generate a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen
 
-  ![duplicates](Images/summstatstable.png)
+  ![statstable](Images/summstatstable.png)
 
 - Generate a bar plot using both Pandas's DataFrame.plot() and Matplotlib's pyplot that shows the total number of measurements taken for each treatment regimen throughout the course of the study
 
-  ![duplicates](Images/barchart.png)
+  ![barchart](Images/barchart.png)
 
 - Generate a pie plot using both Pandas's DataFrame.plot() and Matplotlib's pyplot that shows the distribution of female or male mice in the study
+
+  ![piechart](Images/piechart.png)
 
 - Calculate the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. Calculate the quartiles and IQR and quantitatively determine if there are any potential outliers across all four treatment regimens
 
