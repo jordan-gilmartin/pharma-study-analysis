@@ -16,9 +16,7 @@ Over the course of 45 days, tumor development was observed and measured.
 
 The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. 
 
-You have been tasked by the executive team to generate all of the tables and figures needed for the technical report of the study. 
-
-The executive team also has asked for a top-level summary of the study results.
+The executive team has asked for all of the tables and figures needed for the technical report of the study and also for a top-level summary of the study results. 
 
 Tasks are the following:
 
@@ -31,6 +29,8 @@ Tasks are the following:
   ![duplicates](Images/summstatstable.png)
 
 - Generate a bar plot using both Pandas's DataFrame.plot() and Matplotlib's pyplot that shows the total number of measurements taken for each treatment regimen throughout the course of the study
+
+  ![duplicates](Images/barchart.png)
 
 - Generate a pie plot using both Pandas's DataFrame.plot() and Matplotlib's pyplot that shows the distribution of female or male mice in the study
 
