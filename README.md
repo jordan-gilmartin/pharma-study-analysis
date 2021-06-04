@@ -46,6 +46,8 @@ Tasks are the following:
 
 - Select a mouse that was treated with Capomulin and generate a line plot of tumor volume vs. time point for that mouse
 
+  ![timeseries](Images/timeseries.png)
+
 - Generate a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen
 
 - Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
